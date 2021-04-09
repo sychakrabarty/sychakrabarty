@@ -101,7 +101,7 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:0 tvg-id="StarJalsha.uk" group-title="Bangla",Star Jalsha (1)
 http://103.205.133.48/hls/chsj.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangla",Star Jalsha HD [IN]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangla",Star Jalsha
 http://pn.tvott.info:80/wade/wade/83852
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema [IN]
