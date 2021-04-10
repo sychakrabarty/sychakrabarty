@@ -107,6 +107,9 @@ http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Sangeet Bangla 
+http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8?token=37289ee62e6724795981ea9a86f49cb847e18642-d5570cc544a8b527b74658336d55b079-1618073965-1618063165
+
 
 
 
