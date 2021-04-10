@@ -32,6 +32,7 @@ https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangla",Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
 
