@@ -136,6 +136,18 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Hindi",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
+#EXTINF:0 tvg-id="Colors.uk" group-title="Hindi",COLORS
+http://103.205.133.48/hls/chc.m3u8
+
+#EXTINF:0 tvg-id="Colors.uk" group-title="Hindi",COLORS (1)
+http://103.205.133.21/hls/chc.m3u8
+
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors HD
+http://208.115.215.42/Colors_TV_HD/index.m3u8
+
+#EXTINF:0 tvg-id="RishteyCineplex.uk" group-title="Hindi",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+
 #EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi",Star Plus
 http://103.205.133.48/hls/chsp.m3u8?Live-TV™
 
@@ -192,4 +204,13 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" Hindi",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi",Zee TV HD
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Intertenment
+http://103.205.133.21/hls/chs.m3u8?Live-TV™
+
+#EXTINF:0 tvg-id="UTVAction.in" group-title="Hindi",Utv Action
+http://otv.ftpbd.net/streams/124/index.m3u8
 
